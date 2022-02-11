@@ -865,3 +865,140 @@ div.Readmoreicon-p5 {
   background-image: url(../week1/icon/camera-back.svg);
   background-repeat: no-repeat;
 }
+div.img-p6{
+  width: 100%;
+  height: 50%;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(7, 6, 14, 0.75) 10%, rgba(10, 10, 10, 0.75) 34%, rgba(9, 10, 10, 0.75) 100%),url(../week1/img/footer-parallax.jpg);
+}
+p.lineone{
+  color: white;
+  font-family: first-line;
+  padding-top: 80px;
+  padding-left: 600px;
+}
+p.linetow{
+  font-family: last-line;
+  padding-top: 20px;
+  padding-left: 300px;
+  color: white;
+  font-size: 11px;
+}
+p.linethree{
+  font-family: last-line;
+  padding-top: 10px;
+  padding-left: 620px;
+  color: white;
+  font-size: 11px;
+}
+div.img-p6 a{
+  display: inline-block;
+  color: white;
+  border: 1px solid #c0a059;
+  background-color: #c0a059;
+  text-decoration: none;
+  width: 125px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 600px;
+  padding-top: 11px ;
+  padding-left: 48px;
+  font-family: last-line;
+  font-size: 11px;
+}
+div.img-p7{
+  background-color: #1b1b1b;
+  width: 100%;
+  height: 50%;
+}
+div.four-alighn{
+  display: flex;
+  align-items: center;
+ justify-content: space-evenly;
+ 
+}
+div.icons{
+  display: flex;
+  align-items: center;
+}
+div.alighn-one img{
+  
+  padding-top: 12px;
+}
+
+p.txt-alighn1{
+  font-family: last-line;
+  font-size: 11px;
+  color: white;
+  padding-top: 2px;
+}
+p.cntct{
+  padding-top: 50px;
+  color: white;
+  font-size: 14px;
+  font-family: first-line;
+}
+div.icons{
+  padding-top: 20px;
+  color: white;
+  font-family: last-line;
+  font-size: 11px;
+}
+p.places{
+  padding-left: 10px;
+}
+p.lnk{
+  padding-top: 50px;
+  color: white;
+  font-family: first-line;
+  font-size: 16px;
+}
+p.abt{
+  color: white;
+  font-family: last-line;
+  font-size: 11px;
+  padding-top:  25px;
+}
+div.alighn-four p{
+  padding-top: -50px;
+  color: white;
+  font-family: first-line;
+  font-size:  14px;
+}
+
+input.inp1{
+    height: 35px;
+    width: 170px;
+    border: 1px solid gainsboro;
+    display: inline-block;
+    float: left;
+    font-size: 13px;
+    margin-top: 20px;
+}
+input.inp2{
+  height: 35px;
+  width: 100px;
+  border: 1px solid #c0a059;
+  background-color: #c0a059;
+  display: inline-block;
+  float: left;
+  font-size: 13px;
+  margin-top: 20px;
+}
+div.page-eight{
+  background-color: black;
+  width: 100%;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+div.page-eight p{
+  color: white;
+  font-family: last-line;
+  font-size: 11px;
+  padding-left: 120px;
+}
+div.page-eight img{
+  padding-right:  150px;
+}
